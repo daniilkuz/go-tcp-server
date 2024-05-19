@@ -26,4 +26,8 @@ func (s *Server) Start() error {
 	return nil
 }
 
+func (s *Server) acceptLoop() {
+
+}
+
 func main() {}
